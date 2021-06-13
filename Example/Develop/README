@@ -1,0 +1,20 @@
+## Project Title: 
+E-Commerce
+
+### Description:
+Shows MySQL functionality, with routes to different categories / products / tags
+
+### Installation:
+Required libraries in index.js
+Need MySQL to edit
+
+### Usage: 
+Command line instructions to start
+Insomnia to navigate
+
+### Links: 
+Repo - https://github.com/rutter10/E-Commerce
+Walkthrough - https://drive.google.com/file/d/1GgxaNb8rRx66jSdIx6TFU3KSzbX18V_I/view
+
+### Licensing:
+MIT Licensing    
